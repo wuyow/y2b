@@ -1,11 +1,11 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyCaA7q742-GYbBfC1xyFjSA1UaaJVrTHPQ');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('SITE_NAME', 'WRUtube');
+define('TITLENAME', 'WRUtube');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('EMAIL', 'admin@admin.com');
 define('NAME', 'admin');
 define('PASSWORD', 'admin');
 define('LOGINHTML', '<!DOCTYPE html>
